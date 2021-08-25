@@ -1,0 +1,10 @@
+*{
+    text-transform: capitalize;
+   
+}
+body{
+    background-color:#e84393;
+}
+td{
+    color: white;
+}
